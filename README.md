@@ -8,6 +8,11 @@ I am a student and i like to code.
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on my development
 - 💬 Ask me about coding
+
+
+<img src="https://komarev.com/ghpvc/?username=shalinitiwarindia&style=flat-square&color=blue" alt=""/>
+
+
 ### :fire: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shalinitiwarindia&theme=dark&background=000000)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shalinitiwarindia&theme=radical)
