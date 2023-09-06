@@ -4,9 +4,10 @@
 </div>
 I am a student and i like to code.
 
-- 🔭 I’m currently working on Android development.
-- 🌱 I’m currently learning java
-- 👯 I’m looking to collaborate on my development
+- 🔭 I’m currently working on Web development.
+- 🌱 I’m currently learning javascript.
+- Started to learn full-stack development course.
+- 👯 I’m looking to collaborate on my development.
 - 💬 Ask me about coding
 
 
