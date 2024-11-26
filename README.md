@@ -3,8 +3,8 @@
 I'm a full-stack developer passionate about building web applications and learning new technologies.
 
 ## 🚀 Skills
-- **Languages**: JavaScript, HTML, CSS,JAVA
-- **Frontend**: React
+- **Languages**: JavaScript,Typescript, HTML, CSS,JAVA
+- **Frontend**: React,Redux
 - **Backend**: Node.js, Express
 - **Databases**: MongoDB
 - **Tools**: Git
