@@ -1,7 +1,7 @@
 
 # Hello, I'm Shalini Tiwari. 👋
 
-I'm a full-stack developer passionate about building web applications and learning new technologies.
+I'm a Frontend developer passionate about building web applications and learning new technologies.
 
 ## 🚀 Skills
 
