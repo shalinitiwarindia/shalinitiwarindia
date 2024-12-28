@@ -8,7 +8,7 @@ I'm a Frontend developer passionate about building web applications and learning
 ### **Technical Skills**
 
 #### **Core Frontend Development Skills**
-1. **HTML5**: Semantic HTML, forms, accessibility (ARIA).
+1. **HTML5**: Semantic HTML, forms.
 2. **CSS3**: Responsive design, animations, Flexbox, Grid, preprocessors like SCSS
 3. **JavaScript (ES6+)**: DOM manipulation, fetch API, promises, async/await, closures.
 4. **TypeScript**: Static typing for better code maintainability.
