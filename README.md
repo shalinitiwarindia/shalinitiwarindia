@@ -17,7 +17,7 @@ I'm a Frontend developer passionate about building web applications and learning
 1. **React.js**: Functional components, hooks, context API, Redux.
 
 #### **Styling Frameworks and Libraries**
-1. **Chakra UI**
+1. **Chakra UI**,**Material UI**
 
 #### **Version Control and Collaboration**
 1. **Git and GitHub/GitLab**: Version control, branch management.
