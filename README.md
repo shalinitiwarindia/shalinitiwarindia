@@ -43,13 +43,6 @@ I'm a Frontend developer passionate about building web applications and learning
 
 ---
 
-### **Optional Skills**
-- **UI/UX Design Tools**: Figma, Adobe XD, Sketch.
-- **Backend Basics**: Node.js, Express.js for full-stack projects.
-- **Database**: Basic understanding of MongoDB, Firebase, or PostgreSQL.
-- **Mobile Development Frameworks**: React Native or Flutter (optional but valuable).
-- **Search Engine Optimization (SEO)**: On-page SEO for better search rankings.
-- **Accessibility**: Knowledge of WCAG standards for web accessibility.
 
 ---
 
