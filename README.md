@@ -70,21 +70,11 @@ Live weather app using **OpenWeatherMap API**, displaying dynamic city-wise weat
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalinitiwarindia&show_icons=true&theme=react" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalinitiwarindia&theme=react" />
-</p>
-
----
-
 ## 📫 Connect with Me  
 
 - 📧 [Email](mailto:shalinitiwarindia@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shalini-tiwari-466566239/)  
-- 🌐 Portfolio (Coming Soon...)  
+- 🌐 [Portfolio](https://shalinitiwarindia.netlify.app)  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shalinitiwarindia&style=flat-square&color=blue" />
