@@ -1,65 +1,91 @@
-
-# Hello, I'm Shalini Tiwari. 👋
-
-I'm a Frontend developer passionate about building web applications and learning new technologies.
-
-## 🚀 Skills
-
-### **Technical Skills**
-
-#### **Core Frontend Development Skills**
-1. **HTML5**: Semantic HTML, forms.
-2. **CSS3**: Responsive design, animations, Flexbox, Grid, preprocessors like SCSS
-3. **JavaScript (ES6+)**: DOM manipulation, fetch API, promises, async/await, closures.
-4. **TypeScript**: Static typing for better code maintainability.
-
-#### **Frontend Frameworks and Libraries**
-1. **React.js**: Functional components, hooks, context API, Redux.
-
-#### **Styling Frameworks and Libraries**
-1. **Chakra UI**,**Material UI**
-
-#### **Version Control and Collaboration**
-1. **Git and GitHub/GitLab**: Version control, branch management.
-2. **CI/CD Tools**: GitHub Actions, Netlify.
-
-#### **Testing and Debugging**
-1. **Unit Testing**: Jest, React Testing Library.
-2. **Browser DevTools**: Debugging and performance optimization.
-
-#### **Build Tools and Bundlers**
-1. **Webpack**, **Vite**.
-2. **Babel**: JavaScript transpilation.
-
-#### **APIs and State Management**
-1. **RESTful APIs**: Fetching and manipulating data.
-2. **State Management**: Redux, Context API.
-
-#### **Soft Skills**
-1. **Problem-solving**: Debugging issues, optimizing performance.
-2. **Collaboration**: Working with cross-functional teams (designers, backend developers).
-3. **Attention to Detail**: Ensuring pixel-perfect designs.
-4. **Communication Skills**: Explaining technical solutions to non-technical stakeholders.
+<h1 align="center">👋 Hello, I'm Shalini Tiwari</h1>
+<p align="center">
+  <b>MERN Stack Developer | Problem Solver | Frontend Specialist</b> <br/>
+  <i>Building seamless, scalable, and impactful web applications</i>
+</p>
 
 ---
 
+## 👩‍💻 About Me  
+
+- 📍 Based in Mumbai, Maharashtra  
+- 🎓 Bachelor of Science (Computer Science) | Mumbai University (CGPI: 8.98)  
+- 🏆 1st Prize & 2nd Prize in Academic Excellence (2022-2024)  
+- 💼 MERN Stack Developer with **10+ hands-on projects** delivered  
+- 💡 Passionate about **problem-solving**, clean code & performance optimization  
+- 🎯 Preparing for **Top Product Based Companies** interviews  
+- 📈 Active on **LeetCode**, **HackerRank** and continuously upgrading tech skills
 
 ---
 
+## 🚀 Core Technical Skills  
 
+### 📌 Full-Stack Development  
+- **MERN Stack**: MongoDB, Express.js, React.js, Node.js  
+- **TypeScript**, **JavaScript (ES6+)**, **Redux**, **RESTful APIs**  
 
+### 📌 Frontend Development  
+- **React.js**: Functional Components, Hooks, Context API, React Router DOM  
+- **Chakra UI**, **Material UI**, **HTML5**, **CSS3** (Flexbox, Grid, Responsive)
 
-## 📫 Contact
-- **Email**: shalinitiwarindia@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/shalini-tiwari-466566239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app (Link to LinkedIn)
+### 📌 Backend Development  
+- **Node.js**, **Express.js**, **MongoDB**, **Mongoose**  
+- Authentication: **JWT**, **OAuth**
 
+### 📌 Tools & Collaboration  
+- **Git**, **GitHub**, **Postman**, **Webpack**, **Vite**, **Netlify**, **Vercel**  
+- Debugging: **Browser DevTools**, **Hoppscotch**
 
+### 📌 Soft Skills  
+- Problem-solving | Debugging | Collaboration | Communication | Attention to Detail  
 
+---
 
+## 🛠️ Notable Projects  
 
+### 📦 Meesho Clone (MERN)  
+Real-time product management, sorting/filtering, JWT auth, cart handling with MongoDB & Redux.  
+🔗 [GitHub Repo](#)
 
-<img src="https://komarev.com/ghpvc/?username=shalinitiwarindia&style=flat-square&color=blue" alt=""/>
+### 📦 Flipkart Clone (MERN)  
+Fully functional clone with **Paytm integration**, Redux-based state management, secure backend.  
+🔗 [GitHub Repo](#)
 
+### 📊 Expense Tracker (React)  
+Category-based tracking, data visualization with **Chart.js**, responsive UI, clean code structure.  
+🔗 [GitHub Repo](#)
 
+### 🌦️ Weather Watch (Frontend)  
+Live weather app using **OpenWeatherMap API**, displaying dynamic city-wise weather updates.  
+🔗 [GitHub Repo](#)
 
+---
 
+## 📜 Certifications  
+
+- **Frontend Developer (React)** — HackerRank  
+- **React** — HackerRank  
+- **Software Engineer Intern** — HackerRank  
+- **LeetCode Medal Holder**
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shalinitiwarindia&show_icons=true&theme=react" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalinitiwarindia&theme=react" />
+</p>
+
+---
+
+## 📫 Connect with Me  
+
+- 📧 [Email](mailto:shalinitiwarindia@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shalini-tiwari-466566239/)  
+- 🌐 Portfolio (Coming Soon...)  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shalinitiwarindia&style=flat-square&color=blue" />
+</p>
