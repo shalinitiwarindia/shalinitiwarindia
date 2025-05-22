@@ -45,28 +45,31 @@
 
 ### 📦 Meesho Clone (MERN)  
 Real-time product management, sorting/filtering, JWT auth, cart handling with MongoDB & Redux.  
-🔗 [GitHub Repo](#)
+
 
 ### 📦 Flipkart Clone (MERN)  
 Fully functional clone with **Paytm integration**, Redux-based state management, secure backend.  
-🔗 [GitHub Repo](#)
+
 
 ### 📊 Expense Tracker (React)  
 Category-based tracking, data visualization with **Chart.js**, responsive UI, clean code structure.  
-🔗 [GitHub Repo](#)
+
 
 ### 🌦️ Weather Watch (Frontend)  
 Live weather app using **OpenWeatherMap API**, displaying dynamic city-wise weather updates.  
-🔗 [GitHub Repo](#)
+
 
 ---
 
 ## 📜 Certifications  
+- **Software Engineer Intern** — HackerRank (https://www.hackerrank.com/certificates/7863911581a9)
+- **Frontend Developer (React)** — HackerRank (https://www.hackerrank.com/certificates/b80ae7b99390) 
+- **React (Basic) Certificate** — HackerRank  (https://www.hackerrank.com/certificates/28cc5549d072)
+- **SQL (Basic) Certificate** - HackerRank (https://www.hackerrank.com/certificates/3b904dd8640b)
+- **Problem Solving (Intermediate) Certificate** - HackerRank (https://www.hackerrank.com/certificates/0f2b81964184)
+- **Problem Solving (Basic) Certificate** - HackerRank (https://www.hackerrank.com/certificates/b713f9b3f5b8)
 
-- **Frontend Developer (React)** — HackerRank  
-- **React** — HackerRank  
-- **Software Engineer Intern** — HackerRank  
-- **LeetCode Medal Holder**
+- **LeetCode Medal Holder**-
 
 ---
 
