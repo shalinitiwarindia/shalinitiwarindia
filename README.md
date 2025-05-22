@@ -5,7 +5,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shalinitiwarindia&style=flat-square&color=blue" />
+</p>
 ## 👩‍💻 About Me  
 
 - 📍 Based in Mumbai, Maharashtra  
@@ -78,6 +80,4 @@ Live weather app using **OpenWeatherMap API**, displaying dynamic city-wise weat
 - 💼 [LinkedIn](https://www.linkedin.com/in/shalini-tiwari-466566239/)  
 - 🌐 [Portfolio](https://portfolio-project-3raw5tndh-shalinitiwarindias-projects.vercel.app/) 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shalinitiwarindia&style=flat-square&color=blue" />
-</p>
+
