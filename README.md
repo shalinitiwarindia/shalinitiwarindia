@@ -76,7 +76,7 @@ Live weather app using **OpenWeatherMap API**, displaying dynamic city-wise weat
 
 - 📧 [Email](mailto:shalinitiwarindia@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shalini-tiwari-466566239/)  
-- 🌐 [Portfolio](https://shalinitiwarindia.netlify.app)  
+- 🌐 [Portfolio](https://portfolio-project-3raw5tndh-shalinitiwarindias-projects.vercel.app/) 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shalinitiwarindia&style=flat-square&color=blue" />
