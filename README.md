@@ -49,8 +49,7 @@
 Real-time product management, sorting/filtering, JWT auth, cart handling with MongoDB & Redux.  
 
 
-### 📦 Flipkart Clone (MERN)  
-Fully functional clone with **Paytm integration**, Redux-based state management, secure backend.  
+ 
 
 
 ### 📊 Expense Tracker (React)  
