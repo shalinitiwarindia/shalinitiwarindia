@@ -68,8 +68,7 @@ Live weather app using **OpenWeatherMap API**, displaying dynamic city-wise weat
 - **SQL (Basic) Certificate** - HackerRank (https://www.hackerrank.com/certificates/3b904dd8640b)
 - **Problem Solving (Intermediate) Certificate** - HackerRank (https://www.hackerrank.com/certificates/0f2b81964184)
 - **Problem Solving (Basic) Certificate** - HackerRank (https://www.hackerrank.com/certificates/b713f9b3f5b8)
-
-- **LeetCode Medal Holder**-
+- **LeetCode Medal Holder**-(https://leetcode.com/u/GXjKNPcPG1/)
 
 ---
 
