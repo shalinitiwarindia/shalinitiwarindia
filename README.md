@@ -1,4 +1,4 @@
-### Hey, I'm Shalini Tiwari 👋
+### Hey, I'm Shalini 👋
 
 
 <div align="center">
